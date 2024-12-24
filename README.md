@@ -54,4 +54,4 @@ https://quickstats.nass.usda.gov/param_define and
 https://quickstats.nass.usda.gov/src/glossary.pdf.
 
 The client has also provided a map of their current suppliers:
--- Hideen due to NDA
+-- Hidden due to NDA
